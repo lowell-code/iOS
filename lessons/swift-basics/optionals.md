@@ -61,6 +61,6 @@ The safer but more tedious option is implicit unwrapping.
  
 Implicit unwrapping uses an ```if``` statement to check if there is an actual value to the optional and is the overall safer way to deal with optionals. (*We'll cover Swift if statements later*)
 
-*END OF THE LESSON CHALLENGE THING
+#END OF THE LESSON CHALLENGE THING
 Think of some cases where an optional will be used and if it will be better if you implicitly or forced unwrapped it.
  
