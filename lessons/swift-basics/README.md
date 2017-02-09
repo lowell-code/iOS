@@ -1,3 +1,5 @@
+#SWIFT AND STUFF
+
 So you wanna learn swift... well crap...
 
 So um... this is still a work in progress but for now imma try to teach you guys to the best of my ability.
