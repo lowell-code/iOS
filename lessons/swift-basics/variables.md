@@ -33,3 +33,20 @@ let name = "Jeremy"
 print(name)
 //This would print Jeremy
 ```
+
+#END OF THE LESSON CHALLENGE THING
+Okay so in all legitness this is not really a challenge, but just think in those big brains in your noggins if the situation would be **let** or **var** and why.
+
+1. Name of Godzilla.
+
+2. Amount of letters in Godzilla.
+
+3. If Godzilla is hungry or nah.
+
+4. Amount of buildings Godzilla destroys.
+
+5. Cost of repairing those buildings Godzilla just destroyed.
+
+6. How pissed the government is at Godzilla.
+
+7. Amount of memes that come out of this terrible tragedy.
