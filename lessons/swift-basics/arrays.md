@@ -13,6 +13,10 @@ Let's look at some ways we can do stuff with arrays.
 ```swift
   var swiftArray: [String] = ["one", "two"]
   
+  //Print item from certain position
+  print(swiftArray[0])
+  //Prints one
+  
   //Count
   print(swiftArray.count)
   //Prints two because there are two elements in the array
