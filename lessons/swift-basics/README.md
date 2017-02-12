@@ -10,7 +10,7 @@ Here is the recommended order for learning
 2. [Data Types](https://github.com/lowell-code/iOS/blob/master/lessons/swift-basics/data-types.md)
 3. [Optionals](https://github.com/lowell-code/iOS/blob/master/lessons/swift-basics/optionals.md)
 4. [Arrays](https://github.com/lowell-code/iOS/blob/master/lessons/swift-basics/arrays.md)
-5. Dictionaries
+5. [Dictionaries](https://github.com/lowell-code/iOS/blob/master/lessons/swift-basics/dictionaries.md)
 6. Control-Flow
 7. Functions
 8. Enums
