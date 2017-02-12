@@ -34,6 +34,11 @@ Let's look at some ways we can do stuff with arrays.
   swiftArray.remove(at: 2)
   print(swiftArray)
   //prints ["one", "two", "three"]
+  
+  //Declare an empty array
+  var empty = [Int]()
+  //or
+  var empty2: [String] = []
 ```
 
 Those are some swaggy things to do with those arrays.
