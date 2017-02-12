@@ -34,3 +34,8 @@ Let's see what else we can do in dictionaries.
   var emptyDict2: [String: Int] = [:]
 ```
 
+#END OF THE LESSON CHALLENGE THING
+
+1. For every month there must be a meme. Let's create a dictionary for the memes of the past 4 months. October had PPAP; November had Joe Biden; December was the month of Evil Kermit; January had Salt Bae.
+
+2. Hold up I change my mind. Let's change January's meme to Cash Me Ousside Howbow Dah? Reset January's me to that.
