@@ -12,6 +12,6 @@ Here is the recommended order for learning
 4. [Arrays](https://github.com/lowell-code/iOS/blob/master/lessons/swift-basics/arrays.md)
 5. [Dictionaries](https://github.com/lowell-code/iOS/blob/master/lessons/swift-basics/dictionaries.md)
 6. [Control-Flow](https://github.com/lowell-code/iOS/blob/master/lessons/swift-basics/control_flow.md)
-7. Functions
+7. [Functions](https://github.com/lowell-code/iOS/blob/master/lessons/swift-basics/functions.md)
 8. Enums
 9. Classes/Structs
